@@ -1,7 +1,7 @@
 {
-  "url": "http://localhost:3030/",
+  "url": "https://lulu-debug-server.herokuapp.com/",
   "limit": 100,
   "port": 3030,
-  "user": "admin",
-  "password": "Secret123"
+  "user": "lulu",
+  "password": "lulululu123"
 }
